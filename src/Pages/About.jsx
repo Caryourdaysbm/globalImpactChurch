@@ -5,7 +5,7 @@ import Values from "../Components/About/Values";
 import ValuesDiv from "../Components/About/ValuesDiv";
 
 
-import MeetOurLeadPastors from "../Components/about/MeetOurLeadPastors";
+import MeetOurLeadPastors from "../Components/About/MeetOurLeadPastors";
 
 function About() {
   return (
